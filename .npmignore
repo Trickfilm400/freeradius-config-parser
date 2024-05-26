@@ -1,0 +1,13 @@
+node_modules/
+.idea/
+config.json
+.prettierrc
+.eslint*
+.gitmodules
+.gitignore
+.nyc_output/
+coverage/
+test/
+.github/
+tsconfig.json
+

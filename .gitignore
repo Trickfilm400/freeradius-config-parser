@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.idea/
+config.json
+.nyc_output/
+coverage/
+typings/
+test/docker/deb_content/
+test/docker/done
+test/docker/file.deb
+
+test/*.conf
