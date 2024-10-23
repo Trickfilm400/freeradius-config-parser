@@ -2,7 +2,7 @@ node_modules/
 .idea/
 config.json
 .prettierrc
-.eslint*
+eslint*
 .gitmodules
 .gitignore
 .nyc_output/
